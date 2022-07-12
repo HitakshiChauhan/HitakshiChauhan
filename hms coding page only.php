@@ -1,4 +1,4 @@
-                                 
+<!--HOTEL MANAGEMENT SYSTEM PROJECT CODE -->                                 
 
 <?php
 include('db.php');
